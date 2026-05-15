@@ -1,6 +1,8 @@
 # ✈️ Wayfarer - Modern Travel & Booking Platform
 
-**Live Preview:** [https://wayfarer-one.vercel.app/](https://wayfarer-one.vercel.app/)
+<a href="https://wayfarer-one.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌍_Live_Preview-View_Website-36a3b5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Preview Button" />
+</a>
 
 Wayfarer is a premium, full-stack travel booking application curated for the modern explorer. Built with Next.js 16 (App Router), an independent Express.js backend, and MongoDB, it features a highly interactive glass-morphism UI, seamless scroll animations, and a secure decoupled authentication system.
 
