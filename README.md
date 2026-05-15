@@ -67,3 +67,4 @@ Follow these steps to run the Wayfarer platform locally.
 ```bash
 git clone https://github.com/Ashik-Ahammad/wayfarer-travel/
 
+![alt text](screencapture-wayfarer-one-vercel-app-2026-05-15-18_11_18.png)
