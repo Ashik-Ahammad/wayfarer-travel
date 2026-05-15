@@ -67,4 +67,3 @@ Follow these steps to run the Wayfarer platform locally.
 ```bash
 git clone https://github.com/Ashik-Ahammad/wayfarer-travel/
 
-<img width="1894" height="899" alt="image" src="https://github.com/user-attachments/assets/cc04a034-58e1-478d-811b-6bf2f3c56806" />
